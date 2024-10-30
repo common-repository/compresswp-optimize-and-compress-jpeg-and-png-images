@@ -1,0 +1,1 @@
+# CompressWP Wordpress plugin
